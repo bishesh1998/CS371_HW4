@@ -1,0 +1,45 @@
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\bin\Debug\cs371entityframework.exe.config
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\bin\Debug\cs371entityframework.exe
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\bin\Debug\cs371entityframework.pdb
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\bin\Debug\BouncyCastle.Crypto.dll
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\bin\Debug\Google.Protobuf.dll
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\bin\Debug\MySql.Data.dll
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\bin\Debug\Renci.SshNet.dll
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\bin\Debug\Ubiety.Dns.Core.dll
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\bin\Debug\Google.Protobuf.xml
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\bin\Debug\MySql.Data.xml
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\bin\Debug\Renci.SshNet.xml
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\obj\Debug\cs371adomodels.csprojAssemblyReference.cache
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\obj\Debug\cs371adomodels.csproj.CopyComplete
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\obj\Debug\cs371entityframework.exe
+D:\courses\2020 Jan\Windows app dev\Homeworks\HW4\EX2\cs371entityframework\obj\Debug\cs371entityframework.pdb
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\bin\Debug\cs371entityframework.exe.config
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\bin\Debug\cs371entityframework.exe
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\bin\Debug\cs371entityframework.pdb
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\bin\Debug\BouncyCastle.Crypto.dll
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\bin\Debug\Google.Protobuf.dll
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\bin\Debug\MySql.Data.dll
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\bin\Debug\Renci.SshNet.dll
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\bin\Debug\Ubiety.Dns.Core.dll
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\bin\Debug\Google.Protobuf.xml
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\bin\Debug\MySql.Data.xml
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\bin\Debug\Renci.SshNet.xml
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\obj\Debug\cs371adomodels.csprojAssemblyReference.cache
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\obj\Debug\cs371adomodels.csproj.CopyComplete
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\obj\Debug\cs371entityframework.exe
+D:\Classes\Windows Application Development\HW4-master\EX2\cs371entityframework\obj\Debug\cs371entityframework.pdb
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\bin\Debug\cs371entityframework.exe.config
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\bin\Debug\cs371entityframework.exe
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\bin\Debug\cs371entityframework.pdb
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\bin\Debug\Google.Protobuf.dll
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\bin\Debug\MySql.Data.dll
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\bin\Debug\Renci.SshNet.dll
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\bin\Debug\Google.Protobuf.xml
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\bin\Debug\MySql.Data.xml
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\bin\Debug\Renci.SshNet.xml
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\obj\Debug\cs371adomodels.csprojAssemblyReference.cache
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\obj\Debug\cs371adomodels.csproj.CopyComplete
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\obj\Debug\cs371entityframework.exe
+C:\Users\Bishesh\hw4\HW4_Ex2\cs371entityframework\obj\Debug\cs371entityframework.pdb
