@@ -140,8 +140,8 @@ namespace linqTest
             Console.WriteLine();
 
             //Query to calculate the average age of the crew
-            var AvgAge = from crew in serenity.Descendants("crewMember")
-                         select ((string)crew.Attribute("Age"));
+            //Using Query-Style Syntax
+            var AvgAge = serenity.Descendants("crewMember").Select(c=> (string)c.Attribute("Age")) ;
             double avg = 0;
             foreach (var A in AvgAge)
             {
